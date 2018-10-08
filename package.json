@@ -1,7 +1,7 @@
 {
   "name": "nexter",
   "version": "0.1.0",
-  "homepage": "https://ahmediriban.github.io/nexter",
+  "homepage": "https://ahmediriban.github.io/nexter/",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
